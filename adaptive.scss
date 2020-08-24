@@ -1,0 +1,24 @@
+@media screen and (max-width: 1900px){
+
+  .studio{
+    .studio__portfolio{
+      width: 100%;
+      max-width: 1300px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-around;
+      .xl{
+        width: 310px;
+        margin-bottom: 15px;
+      }
+    }
+  }
+  .choose{
+    .choose__support{
+      .support__text{
+        width: 100%;
+        max-width: 1000px;
+      }
+    }
+  }
+}
